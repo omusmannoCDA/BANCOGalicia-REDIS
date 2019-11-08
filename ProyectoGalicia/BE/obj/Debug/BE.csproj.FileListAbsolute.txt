@@ -1,0 +1,10 @@
+C:\Users\omusmanno\source\repos\ProyectoGalicia\BE\bin\Debug\BE.dll
+C:\Users\omusmanno\source\repos\ProyectoGalicia\BE\bin\Debug\BE.pdb
+C:\Users\omusmanno\source\repos\ProyectoGalicia\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\omusmanno\source\repos\ProyectoGalicia\BE\obj\Debug\BE.dll
+C:\Users\omusmanno\source\repos\ProyectoGalicia\BE\obj\Debug\BE.pdb
+C:\Users\omusmanno\Documents\Git\ProyectoGalicia\BE\bin\Debug\BE.dll
+C:\Users\omusmanno\Documents\Git\ProyectoGalicia\BE\bin\Debug\BE.pdb
+C:\Users\omusmanno\Documents\Git\ProyectoGalicia\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\omusmanno\Documents\Git\ProyectoGalicia\BE\obj\Debug\BE.dll
+C:\Users\omusmanno\Documents\Git\ProyectoGalicia\BE\obj\Debug\BE.pdb
